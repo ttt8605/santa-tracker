@@ -1,0 +1,28 @@
+body{
+    background-color: #bd1212;
+
+}
+
+
+section{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 30vh;
+}
+h1{
+    color:#fdffbf;
+    align-items: center;
+    position: relative;
+    font-size: 60px;
+}
+#countdown{
+    color:#fdffbf;
+    align-items: center;
+    position: relative;
+    font-size: 50px;
+}
